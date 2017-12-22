@@ -9,6 +9,8 @@
         "Brandon Slade <brandonyoyoslade@gmail.com>"
     ],
     "license": "MIT",
+    "main": "./dist/index.js",
+    "typings": "./dist/index",
     "devDependencies": {
         "typescript": "^2.6.1"
     },
