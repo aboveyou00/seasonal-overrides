@@ -5,8 +5,8 @@ export abstract class Override {
         
     }
     
-    abstract shouldActivate(): boolean | Promise<boolean>;
+    public abstract shouldActivate(): boolean | Promise<boolean>;
     
-    abstract activate(): void | Promise<void>;
-    abstract deactivate(): void | Promise<void>;
+    public abstract activate(): void | Promise<void>;
+    public abstract deactivate(): void | Promise<void>;
 }

@@ -16,7 +16,7 @@ export abstract class SeasonalOverride extends Override {
     private endDay: number;
     private endMonth: number;
     
-    shouldActivate(): boolean {
+    public shouldActivate(): boolean {
         let today = new Date();
         let currentMonth = today.getMonth();
         let currentDay = today.getDate();
