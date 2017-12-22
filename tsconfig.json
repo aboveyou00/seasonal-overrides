@@ -1,7 +1,7 @@
 {
     "compilerOptions": {
-        "outDir": "./dist/out-tsc",
-        "rootDir": ".",
+        "outDir": "./dist",
+        "rootDir": "src",
         "declaration": true,
         "module": "commonjs",
         "sourceMap": true,
@@ -28,7 +28,8 @@
     },
     "exclude": [
         "node_modules",
-        ".c9"
+        ".c9",
+        "dist"
     ],
     "compileOnSave": false,
     "buildOnSave": false,
