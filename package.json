@@ -1,6 +1,6 @@
 {
     "name": "seasonal-overrides",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "A typescript framework for applying custom behavior to a website client-side based on the season or day of the year.",
     "scripts": {
         "build": "tsc"
