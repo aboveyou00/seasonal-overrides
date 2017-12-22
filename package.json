@@ -1,0 +1,28 @@
+{
+    "name": "seasonal-overrides",
+    "version": "0.0.0",
+    "description": "A typescript framework for applying custom behavior to a website client-side based on the season or day of the year.",
+    "scripts": {
+        "build": "tsc"
+    },
+    "contributors": [
+        "Brandon Slade <brandonyoyoslade@gmail.com>"
+    ],
+    "license": "MIT",
+    "devDependencies": {
+        "typescript": "^2.6.1"
+    },
+    "keywords": [
+        "typescript",
+        "frontend",
+        "seasonal"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/aboveyou00/seasonal-overrides.git"
+    },
+    "bugs": {
+        "url": "https://github.com/aboveyou00/seasonal-overrides/issues"
+    },
+    "homepage": "https://github.com/aboveyou00/seasonal-overrides#readme"
+}
