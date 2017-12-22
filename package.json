@@ -3,7 +3,8 @@
     "version": "0.0.2",
     "description": "A typescript framework for applying custom behavior to a website client-side based on the season or day of the year.",
     "scripts": {
-        "build": "tsc"
+        "build": "tsc",
+        "watch": "tsc --watch"
     },
     "contributors": [
         "Brandon Slade <brandonyoyoslade@gmail.com>"
